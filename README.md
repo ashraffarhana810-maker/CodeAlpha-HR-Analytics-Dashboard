@@ -1,7 +1,7 @@
 # CodeAlpha HR Analytics Dashboard 📊
 
-An interactive **HR Analytics Dashboard** built in **Power BI**, developed as part of my **Power BI Internship with [CodeAlpha](https://www.codealpha.tech)**.  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/112b3bde-4492-4998-b199-14facbbc90ca" />
-
+An interactive **HR Analytics Dashboard** built in **Power BI**, developed as part of my **Power BI Internship with [CodeAlpha](https://www.codealpha.tech)**.
+![Dashboard preview](dashboard.png)
 
 ## 🎯 Objective
 Analyze and optimize HR processes and workforce management by tracking recruitment, attrition, employee satisfaction, and performance data to support better people decisions.
